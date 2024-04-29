@@ -1,0 +1,12 @@
+Applies text cleaning techniques to strip any formatting from HTML files; very useful if using HTML code cluttered with hard-coded formatting. This is important for several reasons:
+  1. prevents HTML file from overriding CSS styling
+2. makes HTML code more screen-reader friendly
+3. improves search engine optimization for website
+
+The old HTML files will not be deleted, but cleaned and saved to a new folder.
+
+Steps: 
+1. Combine all HTML files in need of cleaning into one location.
+2. Replace the file path for the origDir variable with this location.
+3. Replace the file path for the buildDir variable with the location where you want to save the cleaned files.
+4. Run the code.
