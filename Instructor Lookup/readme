@@ -1,0 +1,3 @@
+Matches courses to their corresponding instructors. 
+
+Extracts possible instructors of each course from csv file. Returns a complete list of instructors for each course indicated in peepList. Much faster than searching through csv file manually!
