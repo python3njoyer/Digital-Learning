@@ -1,5 +1,5 @@
 Applies text cleaning techniques to strip any formatting from HTML files; very useful if using HTML code cluttered with hard-coded formatting. This is important for several reasons:
-  1. prevents HTML file from overriding CSS styling
+1. prevents HTML file from overriding CSS styling
 2. makes HTML code more screen-reader friendly
 3. improves search engine optimization for website
 
